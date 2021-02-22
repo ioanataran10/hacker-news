@@ -1,0 +1,19 @@
+{
+  "name": "hacker-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioanataran10/hacker-news.git"
+  },
+  "author": "Taran Ioana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioanataran10/hacker-news/issues"
+  },
+  "homepage": "https://github.com/ioanataran10/hacker-news#readme"
+}
